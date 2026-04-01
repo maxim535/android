@@ -1,4 +1,4 @@
-gitpackage com.example.xam
+package com.example.xam
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
